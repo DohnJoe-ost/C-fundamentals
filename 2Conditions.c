@@ -47,11 +47,11 @@ int main(void)
 
   if (passes > 8)
   {
-    printf("\nWell done ye ballix!");
+    printf("\nWell done!");
   }
   else
   {
-    printf("\nYour a ballix!");
+    printf("\nTry again!");
   }
 
 
